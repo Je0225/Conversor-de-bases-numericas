@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorParaBinario", "ConversorParaBinario\ConversorParaBinario.csproj", "{B9AE4452-3F90-4AC1-8760-625689B70369}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversores", "ConversorParaBinario\Conversores.csproj", "{B9AE4452-3F90-4AC1-8760-625689B70369}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

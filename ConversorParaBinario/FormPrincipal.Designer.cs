@@ -36,7 +36,6 @@
       this.gbBaseNumerica = new System.Windows.Forms.GroupBox();
       this.gbResultado = new System.Windows.Forms.GroupBox();
       this.lblResult = new System.Windows.Forms.Label();
-      this.btnLimpar = new System.Windows.Forms.Button();
       this.gbValor = new System.Windows.Forms.GroupBox();
       this.gbBaseNumerica.SuspendLayout();
       this.gbResultado.SuspendLayout();
@@ -50,10 +49,11 @@
       this.tbValor.Size = new System.Drawing.Size(204, 20);
       this.tbValor.TabIndex = 0;
       this.tbValor.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbValor_KeyPress);
+      this.tbValor.KeyUp += new System.Windows.Forms.KeyEventHandler(this.tbValor_KeyUp);
       // 
       // btnConverter
       // 
-      this.btnConverter.Location = new System.Drawing.Point(221, 45);
+      this.btnConverter.Location = new System.Drawing.Point(154, 74);
       this.btnConverter.Name = "btnConverter";
       this.btnConverter.Size = new System.Drawing.Size(61, 23);
       this.btnConverter.TabIndex = 2;
@@ -72,18 +72,21 @@
       // 
       // cbBaseDoValor
       // 
+      this.cbBaseDoValor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
       this.cbBaseDoValor.FormattingEnabled = true;
       this.cbBaseDoValor.Location = new System.Drawing.Point(88, 20);
       this.cbBaseDoValor.Name = "cbBaseDoValor";
-      this.cbBaseDoValor.Size = new System.Drawing.Size(113, 21);
+      this.cbBaseDoValor.Size = new System.Drawing.Size(127, 21);
       this.cbBaseDoValor.TabIndex = 0;
+      this.cbBaseDoValor.SelectedIndexChanged += new System.EventHandler(this.cbBaseDoValor_SelectedIndexChanged);
       // 
       // cbConverterPara
       // 
+      this.cbConverterPara.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
       this.cbConverterPara.FormattingEnabled = true;
       this.cbConverterPara.Location = new System.Drawing.Point(88, 47);
       this.cbConverterPara.Name = "cbConverterPara";
-      this.cbConverterPara.Size = new System.Drawing.Size(113, 21);
+      this.cbConverterPara.Size = new System.Drawing.Size(127, 21);
       this.cbConverterPara.TabIndex = 1;
       // 
       // lblBaseDoValor
@@ -104,7 +107,7 @@
       this.gbBaseNumerica.Controls.Add(this.btnConverter);
       this.gbBaseNumerica.Location = new System.Drawing.Point(12, 61);
       this.gbBaseNumerica.Name = "gbBaseNumerica";
-      this.gbBaseNumerica.Size = new System.Drawing.Size(292, 78);
+      this.gbBaseNumerica.Size = new System.Drawing.Size(227, 99);
       this.gbBaseNumerica.TabIndex = 1;
       this.gbBaseNumerica.TabStop = false;
       this.gbBaseNumerica.Text = "Bases Numéricas";
@@ -112,10 +115,9 @@
       // gbResultado
       // 
       this.gbResultado.Controls.Add(this.lblResult);
-      this.gbResultado.Controls.Add(this.btnLimpar);
-      this.gbResultado.Location = new System.Drawing.Point(12, 143);
+      this.gbResultado.Location = new System.Drawing.Point(12, 166);
       this.gbResultado.Name = "gbResultado";
-      this.gbResultado.Size = new System.Drawing.Size(292, 54);
+      this.gbResultado.Size = new System.Drawing.Size(227, 54);
       this.gbResultado.TabIndex = 2;
       this.gbResultado.TabStop = false;
       this.gbResultado.Text = "Resultado";
@@ -131,21 +133,12 @@
       this.lblResult.TabIndex = 0;
       this.lblResult.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
       // 
-      // btnLimpar
-      // 
-      this.btnLimpar.Location = new System.Drawing.Point(221, 19);
-      this.btnLimpar.Name = "btnLimpar";
-      this.btnLimpar.Size = new System.Drawing.Size(61, 23);
-      this.btnLimpar.TabIndex = 1;
-      this.btnLimpar.Text = "Limpar";
-      this.btnLimpar.UseVisualStyleBackColor = true;
-      // 
       // gbValor
       // 
       this.gbValor.Controls.Add(this.tbValor);
       this.gbValor.Location = new System.Drawing.Point(12, 6);
       this.gbValor.Name = "gbValor";
-      this.gbValor.Size = new System.Drawing.Size(291, 50);
+      this.gbValor.Size = new System.Drawing.Size(227, 50);
       this.gbValor.TabIndex = 0;
       this.gbValor.TabStop = false;
       this.gbValor.Text = "Valor";
@@ -154,7 +147,7 @@
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(315, 207);
+      this.ClientSize = new System.Drawing.Size(248, 226);
       this.Controls.Add(this.gbValor);
       this.Controls.Add(this.gbResultado);
       this.Controls.Add(this.gbBaseNumerica);
@@ -181,7 +174,6 @@
         private System.Windows.Forms.GroupBox gbBaseNumerica;
     private System.Windows.Forms.GroupBox gbResultado;
     private System.Windows.Forms.Label lblResult;
-    private System.Windows.Forms.Button btnLimpar;
     private System.Windows.Forms.GroupBox gbValor;
   }
 }

@@ -46,7 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Calculos.cs" />
+    <Compile Include="Bases\Binario.cs" />
+    <Compile Include="Bases\Decimal.cs" />
+    <Compile Include="Bases\Hexadecimal.cs" />
+    <Compile Include="Bases\Octal.cs" />
+    <Compile Include="Calculador.cs" />
+    <Compile Include="CalculosBases\BinarioParaHexadecimal.cs" />
+    <Compile Include="CalculosBases\QualquerBaseParaDecimal.cs" />
+    <Compile Include="CalculosBases\DecimalParaQualquerBase.cs" />
+    <Compile Include="CalculosBases\Contratos\ICalculo.cs" />
+    <Compile Include="Registry.cs" />
     <Compile Include="FormPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -55,6 +64,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegexBases\Contratos\IBaseRegex.cs" />
+    <Compile Include="Bases\Contratos\IBase.cs" />
+    <Compile Include="RegexBases\RegexBinario.cs" />
+    <Compile Include="RegexBases\RegexDecimal.cs" />
+    <Compile Include="RegexBases\RegexHexadecimal.cs" />
+    <Compile Include="RegexBases\RegexOctal.cs" />
     <EmbeddedResource Include="FormPrincipal.resx">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
     </EmbeddedResource>
@@ -80,5 +95,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
