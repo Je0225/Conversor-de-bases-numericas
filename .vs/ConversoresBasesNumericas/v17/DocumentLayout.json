@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\conversorparabinario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|solutionrelative:conversorparabinario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|c:\\users\\user\\documents\\sources\\csharp\\conversores\\conversorparabinario\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|solutionrelative:conversorparabinario\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|c:\\users\\user\\documents\\sources\\csharp\\conversores\\conversorparabinario\\calculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|c:\\users\\user\\documents\\sources\\csharp\\conversores\\conversorparabinario\\registry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|solutionrelative:conversorparabinario\\registry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\conversorparabinario\\calculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|solutionrelative:conversorparabinario\\calculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|c:\\users\\user\\documents\\sources\\csharp\\conversores\\conversorparabinario\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|solutionrelative:conversorparabinario\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|c:\\users\\user\\documents\\sources\\csharp\\conversores\\conversorparabinario\\calculosbases\\binarioparahexadecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|solutionrelative:conversorparabinario\\calculosbases\\binarioparahexadecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|c:\\users\\user\\documents\\sources\\csharp\\conversores\\conversorparabinario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|solutionrelative:conversorparabinario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|c:\\users\\user\\documents\\sources\\csharp\\conversores\\conversorparabinario\\calculosbases\\qualquerbaseparadecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|solutionrelative:conversorparabinario\\calculosbases\\qualquerbaseparadecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|c:\\users\\user\\documents\\sources\\csharp\\conversores\\conversorparabinario\\calculosbases\\decimalparaqualquerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|solutionrelative:conversorparabinario\\calculosbases\\decimalparaqualquerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|c:\\users\\user\\documents\\sources\\csharp\\conversores\\conversorparabinario\\calculosbases\\contratos\\icalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|solutionrelative:conversorparabinario\\calculosbases\\contratos\\icalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|c:\\users\\user\\documents\\sources\\csharp\\conversores\\conversorparabinario\\bases\\contratos\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|solutionrelative:conversorparabinario\\bases\\contratos\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\conversorparabinario\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9AE4452-3F90-4AC1-8760-625689B70369}|ConversorParaBinario\\Conversores.csproj|solutionrelative:conversorparabinario\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +50,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 470,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Calculador.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\Calculador.cs",
-              "RelativeDocumentMoniker": "ConversorParaBinario\\Calculador.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\Calculador.cs",
-              "RelativeToolTip": "ConversorParaBinario\\Calculador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T17:31:04.969Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -51,41 +62,131 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Registry.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\Registry.cs",
+              "RelativeDocumentMoniker": "ConversorParaBinario\\Registry.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\Registry.cs",
+              "RelativeToolTip": "ConversorParaBinario\\Registry.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T12:03:33.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BinarioParaHexadecimal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\CalculosBases\\BinarioParaHexadecimal.cs",
+              "RelativeDocumentMoniker": "ConversorParaBinario\\CalculosBases\\BinarioParaHexadecimal.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\CalculosBases\\BinarioParaHexadecimal.cs",
+              "RelativeToolTip": "ConversorParaBinario\\CalculosBases\\BinarioParaHexadecimal.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T12:00:58.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QualquerBaseParaDecimal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\CalculosBases\\QualquerBaseParaDecimal.cs",
+              "RelativeDocumentMoniker": "ConversorParaBinario\\CalculosBases\\QualquerBaseParaDecimal.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\CalculosBases\\QualquerBaseParaDecimal.cs",
+              "RelativeToolTip": "ConversorParaBinario\\CalculosBases\\QualquerBaseParaDecimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T12:00:55.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DecimalParaQualquerBase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\CalculosBases\\DecimalParaQualquerBase.cs",
+              "RelativeDocumentMoniker": "ConversorParaBinario\\CalculosBases\\DecimalParaQualquerBase.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\CalculosBases\\DecimalParaQualquerBase.cs",
+              "RelativeToolTip": "ConversorParaBinario\\CalculosBases\\DecimalParaQualquerBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T12:00:51.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICalculo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\CalculosBases\\Contratos\\ICalculo.cs",
+              "RelativeDocumentMoniker": "ConversorParaBinario\\CalculosBases\\Contratos\\ICalculo.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\CalculosBases\\Contratos\\ICalculo.cs",
+              "RelativeToolTip": "ConversorParaBinario\\CalculosBases\\Contratos\\ICalculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T12:00:38.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\Bases\\Contratos\\IBase.cs",
+              "RelativeDocumentMoniker": "ConversorParaBinario\\Bases\\Contratos\\IBase.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\Bases\\Contratos\\IBase.cs",
+              "RelativeToolTip": "ConversorParaBinario\\Bases\\Contratos\\IBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:59:06.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculador.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\Calculador.cs",
+              "RelativeDocumentMoniker": "ConversorParaBinario\\Calculador.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\Calculador.cs",
+              "RelativeToolTip": "ConversorParaBinario\\Calculador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:31:04.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FormPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "ConversorParaBinario\\FormPrincipal.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\FormPrincipal.cs",
               "RelativeToolTip": "ConversorParaBinario\\FormPrincipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T17:33:46.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\Program.cs",
+              "RelativeDocumentMoniker": "ConversorParaBinario\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\Program.cs",
+              "RelativeToolTip": "ConversorParaBinario\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:29:05.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "FormPrincipal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "ConversorParaBinario\\FormPrincipal.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\FormPrincipal.cs [Design]",
               "RelativeToolTip": "ConversorParaBinario\\FormPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T17:33:43.014Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\Program.cs",
-              "RelativeDocumentMoniker": "ConversorParaBinario\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Sources\\CSharp\\Conversores\\ConversorParaBinario\\Program.cs",
-              "RelativeToolTip": "ConversorParaBinario\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T14:29:05.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T17:33:43.014Z"
             }
           ]
         },

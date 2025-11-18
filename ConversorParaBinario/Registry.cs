@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom;
 using System.Collections.Generic;
 using System.Linq;
 using ConversorParaBinario.Bases.Contratos;
@@ -26,16 +27,16 @@ namespace ConversorParaBinario {
       return bases.Values.ToArray();
     }
 
-    public static void Registrar<T>(ICalculo calculo) where T : ICalculo{
-      calculos.Add(typeof(T), calculo);
+    public static void Registra(ICalculo calculo) {
+      calculos.Add(typeof(ICalculo), calculo);
     }
 
-    public static void Registrar<T>(IBaseRegex baseRegex) where T : IBaseRegex{
-      regexEntradas.Add(typeof(T), baseRegex);
+    public static void Registra(IBaseRegex baseRegex) {
+      regexEntradas.Add(typeof(IBaseRegex), baseRegex);
     }
 
-    public static void Registrar<T>(IBase baseNumerica) where T : IBase {
-      bases.Add(typeof(T), baseNumerica);
+    public static void Registra(IBase baseNumerica) {
+      bases.Add(typeof(IBase), baseNumerica);
     }
   }
 }

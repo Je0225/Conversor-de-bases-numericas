@@ -21,23 +21,23 @@ namespace ConversorParaBinario {
     }
 
     static void RegistraBases() {
-      Registry.Registrar<Decimal>(new Decimal());
-      Registry.Registrar<Binario>(new Binario());
-      Registry.Registrar<Octal>(new Octal());
-      Registry.Registrar<Hexadecimal>(new Hexadecimal());
+      Registry.Registra(new Decimal());
+      Registry.Registra(new Binario());
+      Registry.Registra(new Octal());
+      Registry.Registra(new Hexadecimal());
     }
 
     static void RegistraRegexBases() {
-      Registry.Registrar<RegexDecimal>(new RegexDecimal());
-      Registry.Registrar<RegexBinario>(new RegexBinario());
-      Registry.Registrar<RegexOctal>(new RegexOctal());
-      Registry.Registrar<RegexHexadecimal>(new RegexHexadecimal());
-    }
+      Registry.Registra(new RegexDecimal());
+      Registry.Registra(new RegexBinario());
+      Registry.Registra(new RegexOctal());
+      Registry.Registra(new RegexHexadecimal());
+    } 
 
     static void RegistraCalculos() {
-      Registry.Registrar<DecimalParaQualquerBase>(new DecimalParaQualquerBase());
-      Registry.Registrar<QualquerBaseParaDecimal>(new QualquerBaseParaDecimal());
-      Registry.Registrar<BinarioParaHexadecimal>(new BinarioParaHexadecimal());
+      Registry.Registra(new DecimalParaQualquerBase());
+      Registry.Registra(new QualquerBaseParaDecimal());
+      Registry.Registra(new BinarioParaHexadecimal());
     }
 
   }
